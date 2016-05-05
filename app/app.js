@@ -8,7 +8,8 @@
 		'eSales.contactus',
 		'eSales.aboutus',
 		'eSales.gadgets',
-		'eSales.appreals'
+		'eSales.appreals',
+		'eSales.common'
 	]);
 
 	salesApp.config(function(){
