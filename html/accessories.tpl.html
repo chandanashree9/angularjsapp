@@ -1,0 +1,17 @@
+ <div class="col-xs-10 col-xs-offset-1" ng-controller="accessoriesCtrl">
+    <div class="row" ng-repeat="item in accessories" ng-if="$index % 3 == 0 || $index == 0">
+        <div class="col-xs-4 col-height" ng-repeat="item in accessories.slice($index, $index+3)">
+            <div class="thumbnail">
+                <img src="{{item.imageUrl}}" class="gadget-img" alt="Sample Image">
+                <div class="caption">
+                    <h4>{{item.name}}</h4>
+                    <p><small>Price :${{item.price}}</small></p>
+					<p ng-show="item.btnmore.flag">
+                        {{item.description}}
+                    </p>
+                    <button class="btn btn-primary" ng-click="displayContent(item)">{{item.btnmore.name}}</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

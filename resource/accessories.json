@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Jabees WE204M Wired Headphones",
+		"description": " SWEAT PROOF IPX4 RATING: You can rely on WE204M to work as hard as you can under any circumstances: rain, sweat, and even the splash of a sports drink. \n Run and sweat as much as you want without skipping a beat. ON-EAR CONTROL: Easily accessible on-ear control buttons including the ON/OFF for answer/reject phone calls and play/pause music, volume and tracking button.",
+		"price": 16.99,
+		"imageUrl": "img/image13.jpg"
+	},
+	{
+		"name": "Cell Phone Headset",
+		"description": " GOLD QUALITY SOUND-Made with the best quality products that can be found in the audio industry. They will ensure the top music listening experience and high-fidelity stereo sound every time you use them! CONVENIENT PORTABLE DESIGN-The adjustable folding headband gives you the remarkable ability to carry them everywhere. Just fold them, put them in your bag or your pocket and you are ready to go!",
+		"price": 15.98,
+		"imageUrl": "img/image14.jpg"
+	},
+	{
+		"name": "Voistek Wired Cell Phone Headset",
+		"description": " Comes with 3.5mm Universal headset adapter, compatible with most smartphones with 3.5mm headset jack. \nPlug this cell phone headset into your phone and in case it doesn't work properly, plug it into the adapter and then into your phone. djustable headband with flexible boom Mic, a simple hands free headset solution for your mobile phone communication needs, which allows you to talk on your cell phone and keep both your hands free",
+		"price": 26.99,
+		"imageUrl": "img/image15.jpg"
+	},
+	{
+		"name": "Headphones,AILIHEN C8 Lightweight Foldable Headphone ",
+		"description": "The Ailihen C8 Headphones combines the very best in sound, with the convenience of an in-line microphone and volume control. \nIn-Line headphones microphone offers easy communication access, so you can stay connected,puts music and call controls at your fingertips.The adjustable headband allows for a custom fit for any head-size. Built to last, the C8 on-ear headphone is covered under the Ailihen Warranty.",
+		"price": 26,
+		"imageUrl": "img/image16.jpg"
+	},
+	{
+		"name": "Bluetooth Headphones,SmartOmni Glowworm Earbuds",
+		"description": " aptX: Lossless Music Bluetooth Headphones,SmartOmni Offer you impressive dynamic sound. Noise Reduction: Reduces outside noises and enables clearer sound from microphone.\n You can get high quality, hands-free phone conversation even on the street or inside shopping mall.",
+		"price": 25.99,
+		"imageUrl": "img/image17.jpg"
+	},
+	{
+		"name": "Cell Phone Headset, Deker 3.5mm Folding Wired Headphones",
+		"description": " GOLD QUALITY SOUND-Made with the best quality products that can be found in the audio industry. They will ensure the top music listening experience and high-fidelity stereo sound every time you use them! CONVENIENT PORTABLE DESIGN-The adjustable folding headband gives you the remarkable ability to carry them everywhere. \nJust fold them, put them in your bag or your pocket and you are ready to go!",
+		"price": 15.98,
+		"imageUrl": "img/image18.jpg"
+	},
+	{
+		"name": "Symaxio Wireless Bluetooth Headphones",
+		"description": " SUPERB SOUND QUALITY: This headphone has built-in noise-cancelling microphone, which reduces background noise giving you crystal clear voice clarity even in noisy environment. NOISE CANCELLING: Noise-cancelling microphone reduces background noise. Fits comfortably in either ear. \nGreat for use at home, office or outdoors.",
+		"price": 15.99,
+		"imageUrl": "img/image19.jpg"
+	}
+]

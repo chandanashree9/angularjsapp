@@ -8,7 +8,7 @@
 		'eSales.contactus',
 		'eSales.aboutus',
 		'eSales.gadgets',
-		'eSales.appreals',
+		'eSales.accessories',
 		'eSales.common'
 	]);
 

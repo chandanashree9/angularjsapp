@@ -2,16 +2,16 @@
 	function(){
 		'use strict';
 
-		var gadgetService = function ($http,$q,productSrv){
+		var accessoriesService = function ($http,$q){
 			
-			this.gadgetApi = function(){
+			this.accessoriesApi = function(){
 				var dfd = $q.defer();
-				var gadgets = "";
+				var accessories = "";
 
-				$http.get("resource/product.json")
+				$http.get("resource/accessories.json")
 					.then(
 						function(response){
-							gadgets = response; 
+							accessories = response; 
 							dfd.resolve(response);
 						})
 					.catch(
@@ -22,10 +22,9 @@
 				return dfd.promise;
 			};
 
-			this.modifyGadgetList = function(data){
+			this.modifyAccessoriesList = function(data){
 				angular.forEach(data, function(obj, indx){
 					console.log("-------------- Json object :"+obj.name+":: index::"+indx+"----------");
-					obj.discount = productSrv.getDiscounts(obj);
 					obj.btnmore = {	"flag":false,
 									"name":"more" };
 				});
@@ -34,6 +33,5 @@
 			}
 		}
 
-		angular.module('eSales.gadgets').service("gadgetSrv",["$http","$q","productSrv",gadgetService]);
-
+		angular.module('eSales.accessories').service("accessoriesSrv",["$http","$q",accessoriesService]);
 })();

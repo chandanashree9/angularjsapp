@@ -5,13 +5,13 @@
 	function mainController($scope){
 		function init(){
 			$scope.logo = "img/image1.jpg";
-			$scope.navigationTemplate = "app/html/navbar_tpl.html";
+			$scope.navigationTemplate = "html/navbar.tpl.html";
 			$scope.tabs=[
-				{ display:"Home", name:"home", template:"app/html/home_tpl.html"},
-				{ display:"Gadgets", name:"gadgets", template:"app/html/gadgets_tpl.html"},
-				{ display:"Appreals", name:"appreals", template:"app/html/appreals_tpl.html"},
-				{ display:"AboutUs", name:"aboutus", template:"app/html/aboutus_tpl.html"},
-				{ display:"ContactUs", name:"conatctus", template:"app/html/contactus_tpl.html"}
+				{ display:"Home", name:"home", template:"html/home.tpl.html"},
+				{ display:"Gadgets", name:"gadgets", template:"html/gadgets.tpl.html"},
+				{ display:"Accessories", name:"accessories", template:"html/accessories.tpl.html"},
+				{ display:"AboutUs", name:"aboutus", template:"html/aboutus.tpl.html"},
+				{ display:"ContactUs", name:"conatctus", template:"html/contactus.tpl.html"}
 			];
 		}
 
@@ -20,7 +20,7 @@
 		};
 
 		$scope.loadlogin = function(){
-			$scope.contentTemplate = "app/html/login_tpl.html";
+			$scope.contentTemplate = "html/login.tpl.html";
 		}
 		init();
 	}

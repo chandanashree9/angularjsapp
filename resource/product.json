@@ -1,0 +1,51 @@
+[
+	{
+		"name": "Samsung Galaxy S7 edge, 32GB, (AT&T), Gold Platinum",
+		"description": "Get real-time scores and news delivered right to your edge.\n Take on spills and splashes with a premium water-resistant design.",
+		"price": 750,
+		"specification": "Color: Gold Platinum, OS: Android™, Camera: Dual Pixel 12.0 MP",
+		"imageUrl": "img/image6.jpg"
+	},
+	{
+		"name": "Samsung Galaxy Note5, 32GB, (AT&T), Black Sapphire",
+		"description": "Crystal clear detail. Its 5.7 Quad HD Super AMOLED display.\n Great shots anywhere, every time. 16MP rear-facing camera.\nStay connected with Ultra Power Saving Mode.*",
+		"price": 500,
+		"specification": "Color: Black Sapphire, OS: Android™ 5.1.1, Lollipop, Camera: 16MP",
+		"imageUrl": "img/image7.jpg"
+	},
+	{
+		"name": "Samsung Galaxy S6, 32GB†, (TracFone), Black Sapphire",
+		"description": "5.1'' Quad HD Super AMOLED® display.\n16MP rear-facing camera.\n 5MP front-facing camera w/a 120° wide-angle lens.\nCoverage: available with Straight Talk, Net 10, Total Wireless",
+		"price": 599,
+		"specification": "Color: Black Sapphire, OS: Android™ 5.0, Lollipop, Camera: CMOS 16MP",
+		"imageUrl": "img/image8.jpg"
+	},
+	{
+		"name": "Samsung Convoy 4 (Verizon), Blue Black",
+		"description": "Designed to work under the harshest environment.\n Supports global roaming and is a reliable companion when you're out of the US.\nClear sound ensures you hear it all, from taking a call to listening to tunes.\n The 5MP camera and camcorder lets users take pictures or video",
+		"price": 150,
+		"specification": "Color: Blue Black, OS: BMP 1.0.4, Camera: 5MP",
+		"imageUrl": "img/image9.jpg"
+	},
+	{
+		"name": "Samsung Galaxy S III, (Virgin Mobile), Marble White",
+		"description": "Sharing photos, music and video isn't just better or easier–it's almost instant.\nNew ways to interact and simplify your life with your phone",
+		"price": 200,
+		"specification": "Color: Marble White, OS: Android™ KitKat 4.4, Camera: 8.0MP",
+		"imageUrl": "img/image10.jpg"
+	},
+	{
+		"name": "Samsung Galaxy S4 PrePaid (Verizon), Black",
+		"description": "5-inch Full HD Super AMOLED™ display.\n13-megapixel camera with simultaneous dual photo capture.\nEasy Mode simplifies use, so you can explore at your own pace",
+		"price": 250,
+		"specification": "Color: Black Mist, OS: Android™ 5.0, Lollipop, Camera: 13MP",
+		"imageUrl": "img/image11.jpg"
+	},
+	{
+		"name": "Samsung Galaxy Grand Prime (AT&T), White Prepaid",
+		"description": "Wide 5'' qHD display.\n5MP front-facing camera, 8MP rear-facing camera.\nFast 4G LTE connection.\nSlim, sleek design",
+		"price": 399,
+		"specification": "Color: White, OS: Android 5.1.1, Lollipop, Camera: 8MP",
+		"imageUrl": "img/image12.jpg"
+	}
+]

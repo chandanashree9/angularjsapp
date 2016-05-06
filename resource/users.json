@@ -1,0 +1,20 @@
+[
+  {
+    "userId": "U1",
+    "firstname": "Chandana",
+    "lastname": "T S",
+    "age": 27,
+    "phonenumber": 4086376864l,
+    "Email": "chandanashree9@yahoo.com",
+    "authenticated":true
+  },
+  {
+    "userId": "A1",
+    "firstname": "Admin",
+    "lastname": "User",
+    "age": 37,
+    "phonenumber": 9999999999l,
+    "Email": "admin-user@yahoo.com",
+    "authenticated":true
+  },
+]
