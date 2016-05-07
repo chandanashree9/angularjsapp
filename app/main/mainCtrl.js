@@ -10,6 +10,7 @@
 				{ display:"Home", name:"home", template:"html/home.tpl.html"},
 				{ display:"Gadgets", name:"gadgets", template:"html/gadgets.tpl.html"},
 				{ display:"Accessories", name:"accessories", template:"html/accessories.tpl.html"},
+				{ display:"Appreals", name:"appreals", template:"html/appreals.tpl.html"},
 				{ display:"AboutUs", name:"aboutus", template:"html/aboutus.tpl.html"},
 				{ display:"ContactUs", name:"conatctus", template:"html/contactus.tpl.html"}
 			];

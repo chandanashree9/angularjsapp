@@ -9,6 +9,7 @@
 		'eSales.aboutus',
 		'eSales.gadgets',
 		'eSales.accessories',
+		'eSales.appreals',
 		'eSales.common'
 	]);
 

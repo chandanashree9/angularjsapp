@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Galaxy S7 Edge Case",
+		"description": "Precisely designed for Samsung Galaxy S7 Edge (2016).\n Provides full access to phone ports, functions and sensitivity.\nBuilt for heavy use, and perfect for the outdoors.\n Advanced dual layer designed case combined of polycarbonate hard shell and flexible TPU withstands accidental drop, bump and shock",
+		"price": 17.99,
+		"imageUrl": "img/image20.jpg"
+	},
+	{
+		"name": "iPhone 6S Case",
+		"description": "[Compatible with Apple iPhone 6S / iPhone 6 4.7 Inch] PREMIUM PROTECTION - featuring two layers of protection: a shock-absorbing frame that protects against drops, and a solid body that protects against scrapes, bumps and more.Shock Absorbing + Scratch Resistant - Premium TPU Bumper + Hard Back Polycarbonate panel provides long-lasting protection from scratches and scrapes, easy grip and slim profile.",
+		"price": 8.88,
+		"imageUrl": "img/image21.jpg"
+	},
+	{
+		"name": "iPhone 6s Case",
+		"description": "Notice: Authentic product is packed in the way displayed on the third photo. ESR case is the brand owner of ESR product, we never authorize any third party sell our product in US, to ensure you receive qualified product please make sure you buy authentic product from SELLER-ESR Case. \nThe free lanyard delivered actually may be different from what show on the image in color and pattern as it is dispatched randomly",
+		"price": 5.99,
+		"imageUrl": "img/image22.jpg"
+	},
+	{
+		"name": "Lifeproof FRE SERIES iPhone 6/6s Waterproof Case",
+		"description": "Compatible with BOTH iphone 6 and iPhone 6s. Not compatible with 30-pin to Lightning Adapters or the majority of non-Apple branded USB to Lightning cables.\nFRE: Built-in scratch protector is virtually invisible to the eye and touch; full access to buttons and controls - charge and sync through the micro USB port; profile: slim, sleek design follows your phone's precision lines.",
+		"price": 54.76,
+		"imageUrl": "img/image23.jpg"
+	},
+	{
+		"name": "iPHONE SE Case",
+		"description": "Designed to iPHONE SE Uniquely designed case with multi layers of protection; Hard plastic and silicone deflect shock while absorbing impact Precise cut outs to have all your phone's function accessible",
+		"price": 5.95,
+		"imageUrl": "img/image24.jpg"
+	},
+	{
+		"name": "iPhone 6s Case, ZONCH™ [Anti-Scratch]",
+		"description": "ANTI-SCRATCH：Electroplated Soft Shell provides long-lasting protection from scratches and scrapes.\nFULL DEGREE of PROTECTION: Provides ultimate protection from bumps and shocks by 4-side corner to corner coverage design.",
+		"price": 8.99,
+		"imageUrl": "img/image25.jpg"
+	},
+	{
+		"name": "iPhone 6S Case",
+		"description": "Modern Aesthetics: Perfectly matched color and a crystal-clear back give the Skyfall case minimalist flair.\nComfortable Design: Rounded edges and a soft coating make for a comfortable and easy grip.\nReliable Protection: A TPU sleeve and polycarbonate bumper provide two layers of drop protection.",
+		"price": 13.99,
+		"imageUrl": "img/image26.jpg"
+	}
+]
