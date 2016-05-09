@@ -1,0 +1,24 @@
+[
+	{
+		"userid":"U1",
+		"username":"chandana",
+		"email":"chan@gmail.com",
+		"phoneno":9988776655,
+		"country":"IN",
+		"state":"AP",
+		"gender":"M",
+		"age":10,
+		"isAuthenticated":false
+	},
+	{
+		"userid":"A1",
+		"username":"admin",
+		"email":"admin@gmail.com",
+		"phoneno":9988776644,
+		"country":"IN",
+		"state":"AP",
+		"gender":"F",
+		"age":30,
+		"isAuthenticated":false
+	}
+]

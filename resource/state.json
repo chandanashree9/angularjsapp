@@ -1,0 +1,50 @@
+{
+	"IN":[
+		{
+			"code": "AP",
+			"name":"AndraPradesh"
+		},
+		{
+			"code": "HY",
+			"name":"Hyderbad"
+		},
+		{
+			"code": "UP",
+			"name":"UttarPradesh"
+		},
+		{
+			"code": "TN",
+			"name":"TamilNadu"
+		}
+	],
+
+	"US":[
+		{
+			"code":"CA",
+			"name":"California"
+		},
+		{
+			"code":"TX",
+			"name":"Texas"
+		},
+		{
+			"code":"VA",
+			"name":"Virginia"
+		}
+	],
+
+	"UK":[
+		{
+			"code":"EG",
+			"name":"England"
+		},
+		{
+			"code":"SL",
+			"name":"ScotLand"
+		},
+		{
+			"code":"NI",
+			"name":"Northern Ireland"
+		}
+	]
+}

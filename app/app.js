@@ -3,6 +3,7 @@
 	'use strict';
 
 	var salesApp = angular.module("eSales",[
+		'eSales.common',
 		'eSales.login',
 		'eSales.home',
 		'eSales.contactus',
@@ -10,7 +11,7 @@
 		'eSales.gadgets',
 		'eSales.accessories',
 		'eSales.appreals',
-		'eSales.common'
+		'eSales.register'
 	]);
 
 	salesApp.config(function(){
