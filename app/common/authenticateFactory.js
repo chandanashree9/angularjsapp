@@ -14,6 +14,13 @@
 				}
 			};
 
+			var resetDetails = function(){
+				userDetails.userid="";
+				userDetails.username="";
+				userDetails.isAuthenticated = "";
+				return userDetails;
+			}
+
 			var setUserDetails = function(user){
 				userDetails = user;
 			};
@@ -24,7 +31,8 @@
 			return {
 				validateAuthUser:validateUser,
 				setUserDetails:setUserDetails,
-				getUserDetails: getUserDetails
+				getUserDetails: getUserDetails,
+				logoffUser: resetDetails
 			};
 		}
 

@@ -28,10 +28,18 @@
 			$scope.contentTemplate = "html/register.tpl.html";
 		}
 
+		$scope.logout = function(){
+			$scope.userdetails=authFactory.logoffUser();
+			$scope.isAuthenticated = false;
+			$scope.loadlogin();
+		}
+
 		$rootScope.$on('LOGIN_SUCCESS',function(event,args){
-			console.log("args ::"+args.username+"::"+ args.email);
+			console.log("args ::"+args.data.username);
 			var user = authFactory.getUserDetails();
 			console.log("factory get userinfo ::"+user.username+"::"+ user.email);
+			$scope.isAuthenticated =  user.isAuthenticated;
+			$scope.userdetails = user;
 		});
 
 		init();

@@ -2,7 +2,7 @@
 	function (){
 	'use strict';
 
-	function loginController($scope,$rootScope,loginSrv,authFactory)
+	function loginController($scope,$rootScope,$state,loginSrv,authFactory)
 	{
 		function init(){
 			$scope.login={
@@ -22,8 +22,7 @@
 							if(userData){
 								userData.isAuthenticated=true;
 								authFactory.setUserDetails(userData);
-								$rootScope.$broadcast('LOGIN_SUCCESS', {'userdetails':userData});
-								
+								$rootScope.$broadcast('LOGIN_SUCCESS', {data:userData});
 							}
 						}
 					).catch(
@@ -40,5 +39,5 @@
 	};
 
 	angular.module('eSales.login')
-		.controller("loginCtrl",['$scope','$rootScope','loginSrv','authFactory',loginController]);
+		.controller("loginCtrl",['$scope','$rootScope','$state','loginSrv','authFactory',loginController]);
 })();
