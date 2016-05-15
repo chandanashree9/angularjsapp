@@ -23,6 +23,7 @@
 								userData.isAuthenticated=true;
 								authFactory.setUserDetails(userData);
 								$rootScope.$broadcast('LOGIN_SUCCESS', {data:userData});
+								$state.go("home",{user:userData});
 							}
 						}
 					).catch(
